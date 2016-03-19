@@ -1,0 +1,35 @@
+{
+  "name": "knickknack",
+  "version": "0.1.0",
+  "license": "MIT",
+  "description": "A utility library for ES2015",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/knanil/knickknack.git"
+  },
+  "bugs": {
+    "url": "https://github.com/knanil/knickknack/issues"
+  },
+  "author": {
+    "name": "Anil Kumar K N",
+    "email": "anil.nampoothiry@gmail.com",
+    "url": "http://www.manomart.com"
+  },
+  "keywords": [
+    "javascript",
+    "utility",
+    "ES2015",
+    "ES6"
+  ],
+  "engines": {
+    "node": ">=4.0"
+  },
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "devDependencies": {
+    "chai": "^1.9.0",
+    "mocha": "^2.3.2"
+  }
+}

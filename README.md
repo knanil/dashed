@@ -1,2 +1,3 @@
 # knickknack
-Utility library for ES2015 
+
+A utility library for ES2015 
