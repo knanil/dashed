@@ -1,14 +1,14 @@
 {
-  "name": "knickknack",
-  "version": "0.1.1",
+  "name": "dashed",
+  "version": "0.1.2",
   "license": "MIT",
   "description": "A utility library for ES2015",
   "repository": {
     "type": "git",
-    "url": "https://github.com/knanil/knickknack.git"
+    "url": "https://github.com/knanil/dashed.git"
   },
   "bugs": {
-    "url": "https://github.com/knanil/knickknack/issues"
+    "url": "https://github.com/knanil/dashed/issues"
   },
   "author": {
     "name": "Anil Kumar K N",
